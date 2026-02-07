@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゴー・トゥ・ヘヴン",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-07T06:30:01.154197Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴー・トゥ・ヘヴン",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_ゴー・トゥ・ヘヴン_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
